@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d25ae18e-0128-4812-98b7-b5ce7671b6ad" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/frontend/RegisterAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/frontend/RegisterAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/frontend/negative/UserLoginTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/frontend/negative/UserLoginTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/frontend/positive/UserRegistrationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/frontend/positive/UserRegistrationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/frontend/negative/MyAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/frontend/negative/UserLogin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/frontend/negative/UserLoginTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/frontend/negative/UserLoginTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/frontend/positive/UserLoginTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/frontend/positive/UserLoginTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1oCwnDaREIL9AFChUdPUQrhHdTx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="frontend.negative" />
+      <recent name="pages.backend" />
+      <recent name="utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.UserRegistrationTests.succesfsulRegistration">
+    <configuration name="AdminLoginTests.successfullLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Pragmatic Project POM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="backend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="backend" />
+      <option name="MAIN_CLASS_NAME" value="backend.AdminLoginTests" />
+      <option name="METHOD_NAME" value="successfullLogin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdminLoginTests.unsuccessfulLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Pragmatic Project POM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="backend.negative.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="backend.negative" />
+      <option name="MAIN_CLASS_NAME" value="backend.negative.AdminLoginTests" />
+      <option name="METHOD_NAME" value="unsuccessfulLogin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserLoginTests.successfuLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Pragmatic Project POM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="frontend.positive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="frontend.positive" />
+      <option name="MAIN_CLASS_NAME" value="frontend.positive.UserLoginTests" />
+      <option name="METHOD_NAME" value="successfuLogin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserLoginTests.unsuccessfulLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Pragmatic Project POM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="frontend.negative.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="frontend.negative" />
+      <option name="MAIN_CLASS_NAME" value="frontend.negative.UserLoginTests" />
+      <option name="METHOD_NAME" value="unsuccessfulLogin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserRegistrationTests.succesfsulRegistration" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Pragmatic Project POM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="frontend.positive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="frontend.positive" />
+      <option name="MAIN_CLASS_NAME" value="frontend.positive.UserRegistrationTests" />
+      <option name="METHOD_NAME" value="succesfsulRegistration" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.UserRegistrationTests.succesfsulRegistration" />
+        <item itemvalue="TestNG.UserLoginTests.successfuLogin" />
+        <item itemvalue="TestNG.UserLoginTests.unsuccessfulLogin" />
+        <item itemvalue="TestNG.AdminLoginTests.unsuccessfulLogin" />
+        <item itemvalue="TestNG.AdminLoginTests.successfullLogin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d25ae18e-0128-4812-98b7-b5ce7671b6ad" name="Default Changelist" comment="" />
+      <created>1612804044505</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612804044505</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="-988" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1613318268206">
+      <screen x="8" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="100" y="-988" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824/8.-1080.1920.1040@8.-1080.1920.1040" timestamp="1613318268206" />
+    <state x="694" y="-869" key="FileChooserDialogImpl" timestamp="1613059433523">
+      <screen x="8" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/8.-1080.1920.1040@0.0.1536.824" timestamp="1613034520369" />
+    <state x="694" y="-869" key="FileChooserDialogImpl/0.0.1536.824/8.-1080.1920.1040@8.-1080.1920.1040" timestamp="1613059433523" />
+    <state width="1493" height="151" key="GridCell.Tab.0.bottom" timestamp="1613483635407">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="151" key="GridCell.Tab.0.bottom/0.0.1536.824/8.-1080.1920.1040@0.0.1536.824" timestamp="1613483635407" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1536.824/8.-1080.1920.1040@8.-1080.1920.1040" timestamp="1613318290624" />
+    <state width="1493" height="151" key="GridCell.Tab.0.center" timestamp="1613483635407">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="151" key="GridCell.Tab.0.center/0.0.1536.824/8.-1080.1920.1040@0.0.1536.824" timestamp="1613483635407" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1536.824/8.-1080.1920.1040@8.-1080.1920.1040" timestamp="1613318290624" />
+    <state width="1493" height="151" key="GridCell.Tab.0.left" timestamp="1613483635407">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="151" key="GridCell.Tab.0.left/0.0.1536.824/8.-1080.1920.1040@0.0.1536.824" timestamp="1613483635407" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1536.824/8.-1080.1920.1040@8.-1080.1920.1040" timestamp="1613318290624" />
+    <state width="1493" height="151" key="GridCell.Tab.0.right" timestamp="1613483635407">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="151" key="GridCell.Tab.0.right/0.0.1536.824/8.-1080.1920.1040@0.0.1536.824" timestamp="1613483635407" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1536.824/8.-1080.1920.1040@8.-1080.1920.1040" timestamp="1613318290624" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1612899898030">
+      <screen x="8" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1536.824/8.-1080.1920.1040@8.-1080.1920.1040" timestamp="1612899898030" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1612899898030">
+      <screen x="8" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1536.824/8.-1080.1920.1040@8.-1080.1920.1040" timestamp="1612899898030" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1612899898029">
+      <screen x="8" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1536.824/8.-1080.1920.1040@8.-1080.1920.1040" timestamp="1612899898029" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1612899898030">
+      <screen x="8" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1536.824/8.-1080.1920.1040@8.-1080.1920.1040" timestamp="1612899898030" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1613489850724">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824/8.-1080.1920.1040@0.0.1536.824" timestamp="1613483633055" />
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1613489850724" />
+    <state x="737" y="-840" key="chooseDestDirectoryDialog" timestamp="1613290759870">
+      <screen x="8" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="583" y="190" key="chooseDestDirectoryDialog/0.0.1536.824/8.-1080.1920.1040@0.0.1536.824" timestamp="1612816526284" />
+    <state x="737" y="-840" key="chooseDestDirectoryDialog/0.0.1536.824/8.-1080.1920.1040@8.-1080.1920.1040" timestamp="1613290759870" />
+    <state x="209" y="73" key="new project wizard" timestamp="1612951520774">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="73" key="new project wizard/0.0.1536.824/8.-1080.1920.1040@0.0.1536.824" timestamp="1612951520774" />
+  </component>
+</project>
