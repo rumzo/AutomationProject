@@ -1,7 +1,8 @@
-package pages.frontend;
+package frontend.negative;
 
 import frontend.core.BaseTest;
 import org.testng.annotations.Test;
+import pages.frontend.UserLogin;
 
 public class UserLoginTests extends BaseTest {
 
